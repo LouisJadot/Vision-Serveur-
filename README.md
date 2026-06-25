@@ -187,6 +187,8 @@ Add your images here in execution order:
 
 ![step4](afterl2.png)
 
+executed on a server equipped with an **NVIDIA RTX A6000** GPU.
+
 ---
 
 # ⚠️ Notes
